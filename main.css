@@ -11,7 +11,6 @@ p {
 }
 
 img {
-    background-color: chocolate;
     width: 100%;
     height: auto;
 }
@@ -19,4 +18,15 @@ img {
 body div {
     display: flex;
 
+}
+.intro {
+    font-size: 30px;
+}
+
+.sport {
+    font-size: 25px;
+}
+
+.about-me {
+    font-size: 25px;
 }
