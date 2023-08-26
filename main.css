@@ -1,0 +1,22 @@
+.image-wrapper {
+    width: 50%;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+p {
+    font-size: 18px;
+}
+
+img {
+    background-color: chocolate;
+    width: 100%;
+    height: auto;
+}
+
+body div {
+    display: flex;
+
+}
